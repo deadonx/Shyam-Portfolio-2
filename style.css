@@ -1,0 +1,67 @@
+body{
+    background-color: #1d2033;
+}
+.container1 {
+    width: 100%;
+    font-size: 20px;
+    border-radius: 10px;
+    display: flex;
+    background-color: #404273;
+    align-items: center;
+    gap: 50px;
+    color: #f2f2fb;
+    
+
+}
+.container1 img{ border-radius: 90px;
+    position: relative;
+    left: 50px;
+}
+.profile-img{
+    position: relative;
+    left: 100px;
+    top: 35px;
+    border-radius: 90px;
+    border-radius: 150px;
+    
+}
+.hello{
+    margin-top: 60px;
+    color: #75eeea;
+}
+.ugshyam{
+    margin-top: -25px;
+    color: #fffffe;
+}
+.future{
+    margin-top: -20px;
+    color: #fcfdff;
+    
+}
+.intro{
+    color: #e2e6f0;
+}
+.profile-img img{
+    border-radius: 150px;
+}
+.container2{
+    gap: 15px;
+     display: flex;
+     font-size: 25px;
+     color: #fdfffd;
+    
+
+}
+.container2 button{
+    background-color: #68fbf2;
+    border-radius: 5px;
+    padding: 7px;
+}
+.download{
+    position: relative;
+    left: 220px;
+
+}
+a{
+    color: white;
+}
